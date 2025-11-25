@@ -6,7 +6,7 @@
 2. Run backend
    ```bash
    python -m venv venv
-   venv\Scripts\activate  # on Windows
+   venv\Scripts\activate  
    pip install -r requirements.txt
    python main.py
 
